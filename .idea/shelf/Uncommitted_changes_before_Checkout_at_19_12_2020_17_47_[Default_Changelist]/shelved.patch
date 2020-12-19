@@ -1,0 +1,12 @@
+Index: list
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- list	(date 1608389252149)
++++ list	(date 1608389252149)
+@@ -0,0 +1,1 @@
++Viktor
+\ No newline at end of file
+diff --git .idea/inspectionProfiles/profiles_settings.xml .idea/inspectionProfiles/profiles_settings.xml
+diff --git .idea/inspectionProfiles/Project_Default.xml .idea/inspectionProfiles/Project_Default.xml
